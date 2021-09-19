@@ -1,0 +1,10 @@
+{
+  "name": "azorfy",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "github:azorfy/azorfy",
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
