@@ -1,0 +1,9 @@
+openapi: 3.0.3
+info:
+  title: Azorfy REST API
+  version: 0.0.1
+  description: This section describes how to use the Azorfy REST API.
+
+paths:
+
+components:
